@@ -1,4 +1,4 @@
-# Ass2 server-client 
+# Let's Talk 
 
 ## about this project
 In this project we created Chat site with three pages:
