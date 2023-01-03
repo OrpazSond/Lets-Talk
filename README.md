@@ -17,7 +17,7 @@ After successful registration the user is redirected to the chat page.<br>
 
 ### Chat page
 On this page on the left there is a list of user chats. <br>
-You can send new messages (text) to other users and communicate.<br>
+You can send new messages (text, record, image or video) to other users and communicate.<br>
 You can add a new user by adding his username, and his server, a validation check is performed and if the details are correct the new user is added successfully.<br>
 In this way you can communicate with users on another server.<br>
 <br>
