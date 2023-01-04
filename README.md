@@ -11,6 +11,7 @@ To log in successfully the user must enter a valid password and username.<br>
 
 ### Registration page
 On this page you can register for the site. The user must enter a valid username, nickname and password. <br>
+The user can add a profile image.<br>
 After successful registration the user is redirected to the chat page.<br>
 <br>
 ![Image](./src/registerpage.png)
